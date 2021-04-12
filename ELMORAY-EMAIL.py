@@ -32,24 +32,24 @@ def hprint(s):
         time.sleep(8.0 / 100)
 
 logo = """
-z"F"$$.
+      z"F"$$.
 -%- . Led$$$$P- 
-       3$3 F3$  " ^  .3""
-          d***$$e.  
-       r .%     ^"%
-        $$r 
-        3$$  *$*$$$$$
-          $$. *b b"$*$.
-           *$. "L^L"b"$-
-            "$b  . L^b^$
-             ^$$bJ  \ b^$ .
+        3$3 F3$              SECRTER EBLS
+          d***$$e.           ELMORSY
+        r .%   ^"%           AS7AB ELMGRA
+        $$r ElMoRsY          ABDELATEF  
+        3$$  *$*$$$$$        ELJOKER ELFYOME
+          $$. *b b"$*$.      DERAKOLA ELHAKEM
+           *$. "L^L"b"$-     ELHOSINY
+            "$b  . L^b^$     SARA ELSORY
+             ^$$bJ  \ b^$ .  
              b *$$$b.\ \ b \
              *$."$$$$$b.. % %
              4$$r $$b *$.%.\ ".
              ^$$  $$P  "$. c^c"e
              4P"  $F%    $. c^r*$c
              $    $       $. c^c "$-
-            $%   .$        $. L^b
+   ELMORSY  $%   .$        $. L^b
     J$$$$$$$$$$$$$$$$$$     *.JL.b
 =======================================:
 (Abdalla elmorsy/Secrter ebles)        :
@@ -58,7 +58,7 @@ ELMORSY_INSTA/TM:AS7AB ELMGRA          :
 =======================================:
 WhatsApp:+201021597142.                :
 =======================================:
-Telegram:@ANONEMOS.                    :
+Telegram:@ANONEMOS./facbook:abdalla elmorsy:
 ========================================
 
 """
